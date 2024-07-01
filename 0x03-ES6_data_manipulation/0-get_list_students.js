@@ -1,4 +1,4 @@
-export default function getListStudents() {
+export default getListStudents() => {
   
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
